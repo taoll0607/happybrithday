@@ -15,7 +15,7 @@ a {
     color: #ebf7f4;
 }
 .body--ready {
-    background: #8db3c6 url('../img/bg1.jpeg') center/100% no-repeat;
+    background: #8db3c6 url('../img/bg1.jpeg') center/100%  100% no-repeat;
     /* background: -webkit-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);
     background: -moz-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);
     background: -o-linear-gradient(top, rgb(203, 235, 219) 0%, rgb(55, 148, 192) 120%);
